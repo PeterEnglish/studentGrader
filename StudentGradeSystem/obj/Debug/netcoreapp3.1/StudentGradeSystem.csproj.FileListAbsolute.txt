@@ -1,0 +1,15 @@
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.csprojAssemblyReference.cache
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.AssemblyInfoInputs.cache
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.AssemblyInfo.cs
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.csproj.CoreCompileInputs.cache
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\bin\Debug\netcoreapp3.1\StudentGradeSystem.exe
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\bin\Debug\netcoreapp3.1\StudentGradeSystem.deps.json
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\bin\Debug\netcoreapp3.1\StudentGradeSystem.runtimeconfig.json
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\bin\Debug\netcoreapp3.1\StudentGradeSystem.runtimeconfig.dev.json
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\bin\Debug\netcoreapp3.1\StudentGradeSystem.dll
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\bin\Debug\netcoreapp3.1\StudentGradeSystem.pdb
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.csproj.CopyComplete
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.dll
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.pdb
+C:\Users\engli\OneDrive\Desktop\c#\StudentGradeSystem\StudentGradeSystem\obj\Debug\netcoreapp3.1\StudentGradeSystem.genruntimeconfig.cache
